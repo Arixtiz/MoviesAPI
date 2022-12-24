@@ -39,6 +39,7 @@ body{
 @media (min-width: 900px) {
     .grid { grid-template-columns: repeat(4, 1fr); }
   }
+  
 
 p{
     color: rgb(255, 255, 255);
